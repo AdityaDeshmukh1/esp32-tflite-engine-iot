@@ -1,0 +1,13 @@
+.pio
+.vscode
+*.bin
+*.elf
+*.hex
+*.d
+*.o
+*.a
+*.pyc
+__pycache__/
+build/
+secrets.h
+
